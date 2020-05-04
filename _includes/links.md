@@ -47,3 +47,10 @@
 [training]: https://carpentries.github.io/instructor-training/
 [workshop-repo]: {{ site.workshop_repo }}
 [yaml]: http://yaml.org/
+[g1e-paper]: https://www.ncbi.nlm.nih.gov/pubmed/22036566
+[geo]: https://www.ncbi.nlm.nih.gov/geo/
+[geo-superseries]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29196
+[g1e-chip-accession]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29193
+[g1e-gata2]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM722387
+[ena]: https://www.ebi.ac.uk/ena/browser/home
+[tutorial-files]: https://rob.beagrie.com/media/chip-tutorial/chip-tutorial-files.tar.gz
