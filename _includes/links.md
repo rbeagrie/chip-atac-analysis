@@ -54,3 +54,5 @@
 [g1e-gata2]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM722387
 [ena]: https://www.ebi.ac.uk/ena/browser/home
 [tutorial-files]: https://rob.beagrie.com/media/chip-tutorial/chip-tutorial-files.tar.gz
+[bamcoverage]: https://deeptools.readthedocs.io/en/latest/content/tools/bamCoverage.html
+[deeptools]: https://deeptools.readthedocs.io/en/latest
