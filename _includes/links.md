@@ -56,3 +56,5 @@
 [tutorial-files]: https://rob.beagrie.com/media/chip-tutorial/chip-tutorial-files.tar.gz
 [bamcoverage]: https://deeptools.readthedocs.io/en/latest/content/tools/bamCoverage.html
 [deeptools]: https://deeptools.readthedocs.io/en/latest
+[narrowpeak-format]: http://genome.ucsc.edu/FAQ/FAQformat.html#format12
+[ucsc-mm10]: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10
