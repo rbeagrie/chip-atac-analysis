@@ -58,3 +58,6 @@
 [deeptools]: https://deeptools.readthedocs.io/en/latest
 [narrowpeak-format]: http://genome.ucsc.edu/FAQ/FAQformat.html#format12
 [ucsc-mm10]: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10
+[bedtools-intersect]: https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html
+[bedtools-merge]: https://bedtools.readthedocs.io/en/latest/content/tools/merge.html
+[bedtools-multicov]: https://bedtools.readthedocs.io/en/latest/content/tools/multicov.html
