@@ -206,7 +206,7 @@ You should use the peak files ending in ".narrowPeak" for the following challeng
 > >
 > > ~~~
 > > bams=$(echo aligned_reads/G1E_ATAC_*.sorted.bam)
-> > echo "chrom  start  stop  $bams" > peak_counts_by_sample.table
+> > echo "chrom start stop samples n_samples $bams" > peak_counts_by_sample.table
 > > bedtools multicov -bed peak_calls/macs2/G1E_ATAC_all_reproducible.bed \
 > > -bams $bams >> peak_counts_by_sample.table
 > > ~~~
