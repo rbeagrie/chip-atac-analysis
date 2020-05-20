@@ -61,3 +61,5 @@
 [bedtools-intersect]: https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html
 [bedtools-merge]: https://bedtools.readthedocs.io/en/latest/content/tools/merge.html
 [bedtools-multicov]: https://bedtools.readthedocs.io/en/latest/content/tools/multicov.html
+[hocomoco]: https://hocomoco11.autosome.ru/
+[meme-chip]: http://meme-suite.org/doc/meme-chip.html
